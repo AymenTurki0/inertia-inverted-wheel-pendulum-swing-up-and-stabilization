@@ -3,7 +3,7 @@
 > A full-stack embedded control project: mechanical design, custom PCB, embedded firmware, and nonlinear control — from swing-up to stabilization.
 
 <p align="center">
-  <img src="assets/pendulum_photo.jpeg" alt="Inertia Wheel Pendulum prototype" width="400"/>
+  <img src="image.jpeg" alt="Inertia Wheel Pendulum prototype" width="400"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ The entire system was designed and built from scratch: mechanical structure (Sol
 
 | Name |
 |---|
-| **[Aymen Turki]** | 
+| **Aymen Turki** | 
 | **Ahmed Amine Sebti** | 
 | **Adem Daly** | 
 
@@ -79,9 +79,9 @@ A state machine handles the transition between the two phases based on the pendu
 
 ## 🎬 Demo
 
-| Swing-Up | Stabilization | LabVIEW Monitoring |
-|---|---|---|
-| `assets/swing_up.mp4` | `assets/stabilization.mp4` | `assets/labview_demo.mp4` |
+
+
+| `inercia wheel pendulum.mp4` | 
 
 ---
 
