@@ -19,7 +19,7 @@ The entire system was designed and built from scratch: mechanical structure (Sol
 
 ---
 
-## 👥 Team
+## Team
 
 | Name |
 |---|
@@ -81,7 +81,9 @@ A state machine handles the transition between the two phases based on the pendu
 
 
 
-| `inercia wheel pendulum.mp4` | 
+
+
+[ Watch the video](./inercia%20wheel%20pendulum.mp4) 
 
 ---
 
