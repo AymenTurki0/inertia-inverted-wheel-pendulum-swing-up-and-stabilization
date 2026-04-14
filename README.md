@@ -44,10 +44,10 @@ A state machine handles the transition between the two phases based on the pendu
 
 ---
 
-## 🛠️ System Architecture
+##  System Architecture
 
 ```
-┌──────────────┐    PWM/uart      ┌──────────────┐      Torque     ┌─────────────┐
+┌──────────────┐          PWM     ┌──────────────┐      A /B/C     ┌─────────────┐
 │   STM32 MCU  │ ───────────────► │  SPARK MAX   │ ───── ────────► │  NEO Motor  │
 │  (Control)   │                  │  Controller  │                 │  + Wheel    │
 └──────┬───────┘                  └──────────────┘                 └──────┬──────┘
@@ -62,7 +62,7 @@ A state machine handles the transition between the two phases based on the pendu
 
 ---
 
-## 💻 Software Stack
+##  Software Stack
 
 | Layer | Tool / Framework |
 |---|---|
@@ -77,7 +77,7 @@ A state machine handles the transition between the two phases based on the pendu
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 
 
